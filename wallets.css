@@ -326,6 +326,13 @@ overflow-x: hidden;
         margin-right: auto;
         width: 80vw;
     }
+
+    .password{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80vw;
+    }
     }
 
    
